@@ -1,4 +1,4 @@
-class Student
+class ChattyStudent
 
   def hello
     puts "hello"
@@ -7,3 +7,5 @@ class Student
   def raise_hand
     puts "Pick me!"
   end
+
+end
