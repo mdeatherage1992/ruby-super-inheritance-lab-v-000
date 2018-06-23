@@ -1,7 +1,8 @@
-class ChattyStudent
+require_relative "./student.rb"
+class ChattyStudent < Student
 
   def hello
-    puts "hello"
+
   end
 
   def raise_hand
